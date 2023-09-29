@@ -1,0 +1,21 @@
+h1 {
+  max-width: 50rem;
+}
+
+img {
+  width: 60rem;
+  height: 30rem;
+  object-fit: cover;
+  object-position: center;
+}
+
+.is-max-desktop {
+  max-width: 42rem;
+}
+
+hr {
+  height: 1px;
+  color: #123455;
+  background-color: #123455;
+  border: none;
+}

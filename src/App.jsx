@@ -1,7 +1,7 @@
 // import { useState } from 'react'
 
 // Components
-import Navbar from './components/Navbar'
+
 import MainSection from './components/MainSection'
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <Navbar />
+
       <MainSection />
     </>
   );
